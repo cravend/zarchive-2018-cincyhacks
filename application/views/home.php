@@ -59,8 +59,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <div class="row">
           <div class="offset-by-two eight columns">
             <h2>About carebnb</h2>
-            <p><b>Carebnb</b> was founded as a way for us to help people that needed it most. Across the nation, over 640,000 LGBT youths experience homelessness on a yearly basis. Additionally, over 196,467 couldn’t find safe housing after leaving an abusive
-              relationship. Our goal is to provide a verified, safe, secure, and private place for those people. </p>
+            <p><b>Carebnb</b> was founded as a way for us to help people that needed it most. Across the nation, over 640,000 LGBT youths experience homelessness on a yearly basis. Additionally, approximately 196,500 people couldn’t find safe housing after leaving an abusive relationship. Our goal is to provide a verified, safe, secure, and private place for those people.</p>
           </div>
         </div>
       </div>

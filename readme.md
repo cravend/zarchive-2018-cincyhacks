@@ -1,8 +1,7 @@
 # carebnb
 
 ## Inspiration
-Carebnb was founded as a way for us to help people that needed it most. Across the nation, over 640,000 LGBT youths experience homelessness on a yearly basis. Additionally, over 196,467 people couldn’t find safe housing after leaving an abusive relationship. Our goal is to provide a verified, safe, secure, and private place for those people.
-
+Carebnb was founded as a way for us to help people that needed it most. Across the nation, over 640,000 LGBT youths experience homelessness on a yearly basis. Additionally, approximately 196,500 people couldn’t find safe housing after leaving an abusive relationship. Our goal is to provide a verified, safe, secure, and private place for those people.
 ## What it does
 Carebnb provides a platform for homeowners to donate safe spaces to people who have been forcibly removed from their homes. This greatly helps LGBT youths whose parents aren't accepting of them, victims of domestic abuse, and anyone who just needs a safe place to stay.
 
